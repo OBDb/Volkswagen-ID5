@@ -1,0 +1,32 @@
+command_id: 746.7B0.2242DB|fc=1
+test_cases:
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 400
+  response: 7B0056242DB0004
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 600
+  response: 7B0056242DB0006
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 700
+  response: 7B0056242DB0007
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 800
+  response: 7B0056242DB0008
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 1100
+  response: 7B0056242DB000B
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 1200
+  response: 7B0056242DB000C
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 1300
+  response: 7B0056242DB000D
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 1400
+  response: 7B0056242DB000E
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 1500
+  response: 7B0056242DB000F
+- expected_values:
+    ID5_CO2_CONTENT_INTERIOR: 25500
+  response: 7B0056242DB03FF

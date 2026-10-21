@@ -1,0 +1,32 @@
+command_id: 710.77A.222AB5|fc=1
+test_cases:
+- expected_values:
+    ID5_RANGE_EST_CAN: 22
+  response: |-
+    77A100D622AB5001600
+    77A2100001600000000
+- expected_values:
+    ID5_RANGE_EST_CAN: 47
+  response: |-
+    77A100D622AB5002F00
+    77A2100002F00000000
+- expected_values:
+    ID5_RANGE_EST_CAN: 48
+  response: |-
+    77A100D622AB5003000
+    77A2100003000000000
+- expected_values:
+    ID5_RANGE_EST_CAN: 254
+  response: |-
+    77A100D622AB500FE00
+    77A210000FE00000000
+- expected_values:
+    ID5_RANGE_EST_CAN: 256
+  response: |-
+    77A100D622AB5010000
+    77A2100010000000000
+- expected_values:
+    ID5_RANGE_EST_CAN: 416
+  response: |-
+    77A100D622AB501A000
+    77A210001A000000000

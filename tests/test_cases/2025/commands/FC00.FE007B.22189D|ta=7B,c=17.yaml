@@ -1,0 +1,26 @@
+command_id: FC00.FE007B.22189D|ta=7B,c=17
+test_cases:
+- expected_values:
+    ID5_HVBAT_T_IN: 6.5
+    ID5_HVBAT_T_OUT: 6
+  response: 17FE007B0762189D018001A0
+- expected_values:
+    ID5_HVBAT_T_IN: 10.5
+    ID5_HVBAT_T_OUT: 7.5
+  response: 17FE007B0762189D01E002A0
+- expected_values:
+    ID5_HVBAT_T_IN: 11.5
+    ID5_HVBAT_T_OUT: 8
+  response: 17FE007B0762189D020002E0
+- expected_values:
+    ID5_HVBAT_T_IN: 8
+    ID5_HVBAT_T_OUT: 8.5
+  response: 17FE007B0762189D02200200
+- expected_values:
+    ID5_HVBAT_T_IN: 36
+    ID5_HVBAT_T_OUT: 28
+  response: 17FE007B0762189D07000900
+- expected_values:
+    ID5_HVBAT_T_IN: 38
+    ID5_HVBAT_T_OUT: 32
+  response: 17FE007B0762189D08000980

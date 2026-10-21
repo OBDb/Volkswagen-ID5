@@ -1,0 +1,11 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    ID5_AAT_V2: 0
+  response: 7B00462260964
+- expected_values:
+    ID5_AAT_V2: 22
+  response: 7B00462260990
+- expected_values:
+    ID5_AAT_V2: null
+  response: 7B004622609FF

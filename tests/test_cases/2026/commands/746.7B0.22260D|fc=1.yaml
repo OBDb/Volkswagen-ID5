@@ -1,0 +1,29 @@
+command_id: 746.7B0.22260D|fc=1
+test_cases:
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 34.299
+  response: 7B00462260D67
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 35.964
+  response: 7B00462260D6C
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 36.63
+  response: 7B00462260D6E
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 38.295
+  response: 7B00462260D73
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 41.292
+  response: 7B00462260D7C
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 41.958
+  response: 7B00462260D7E
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 42.291
+  response: 7B00462260D7F
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 42.624
+  response: 7B00462260D80
+- expected_values:
+    ID5_FRONT_RIGHT_DEFL_T: 44.289
+  response: 7B00462260D85

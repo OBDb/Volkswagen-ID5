@@ -1,0 +1,17 @@
+command_id: 744.7AE.221DDA|fc=1
+test_cases:
+- expected_values:
+    ID5_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE210424CCCCCCCCCC
+- expected_values:
+    ID5_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE210426CCCCCCCCCC
+- expected_values:
+    ID5_OBC_T_A: 30
+  response: |-
+    7AE1008621DDA460352
+    7AE210427CCCCCCCCCC
