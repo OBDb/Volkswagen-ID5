@@ -1,0 +1,20 @@
+command_id: 710.77A.222A0E
+test_cases:
+- expected_values:
+    ID5_SSB_R: 0
+  response: 77A04622A0E00
+- expected_values:
+    ID5_SSB_R: 0.2
+  response: 77A04622A0E01
+- expected_values:
+    ID5_SSB_R: 5.2
+  response: 77A04622A0E1A
+- expected_values:
+    ID5_SSB_R: 8
+  response: 77A04622A0E28
+- expected_values:
+    ID5_SSB_R: 17.6
+  response: 77A04622A0E58
+- expected_values:
+    ID5_SSB_R: 28.8
+  response: 77A04622A0E90

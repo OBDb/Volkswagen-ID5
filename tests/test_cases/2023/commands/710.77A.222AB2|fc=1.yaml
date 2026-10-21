@@ -1,0 +1,17 @@
+command_id: 710.77A.222AB2|fc=1
+test_cases:
+- expected_values:
+    ID5_HVBAT_CAP: 69.4
+  response: 77A07622AB2056C0400
+- expected_values:
+    ID5_HVBAT_CAP: 69.45
+  response: 77A07622AB2056D0400
+- expected_values:
+    ID5_HVBAT_CAP: 71.7
+  response: 77A07622AB2059A0400
+- expected_values:
+    ID5_HVBAT_CAP: 71.75
+  response: 77A07622AB2059B0400
+- expected_values:
+    ID5_HVBAT_CAP: 72.1
+  response: 77A07622AB205A20401

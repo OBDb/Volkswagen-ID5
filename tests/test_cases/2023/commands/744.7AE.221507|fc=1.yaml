@@ -1,0 +1,9 @@
+command_id: 744.7AE.221507|fc=1
+test_cases:
+- expected_values:
+    ID5_CHRGR_RAIL1_E: 4443.5
+    ID5_CHRGR_RAIL2_E: 4443.5
+    ID5_CHRGR_RAIL3_E: 4443
+  response: |-
+    7AE100C62150700AD93
+    7AE2100AD9300AD8ECC

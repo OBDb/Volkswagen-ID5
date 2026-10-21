@@ -1,0 +1,8 @@
+command_id: 746.7B0.222611|fc=1
+test_cases:
+- expected_values:
+    ID5_CLIMATE_LEG_DEFL_T: 38
+  response: 7B00462261172
+- expected_values:
+    ID5_CLIMATE_LEG_DEFL_T: 50
+  response: 7B00462261196

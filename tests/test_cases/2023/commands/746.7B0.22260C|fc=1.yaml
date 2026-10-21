@@ -1,0 +1,23 @@
+command_id: 746.7B0.22260C|fc=1
+test_cases:
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 39.294
+  response: 7B00462260C76
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 39.96
+  response: 7B00462260C78
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 43.29
+  response: 7B00462260C82
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 43.956
+  response: 7B00462260C84
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 44.622
+  response: 7B00462260C86
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 45.288
+  response: 7B00462260C88
+- expected_values:
+    ID5_FRONT_LEFT_DEFL_T: 47.286
+  response: 7B00462260C8E

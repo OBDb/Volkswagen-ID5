@@ -1,0 +1,26 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    ID5_REFRIG_P: 6.8
+  response: 7B00462260522
+- expected_values:
+    ID5_REFRIG_P: 7.6
+  response: 7B00462260526
+- expected_values:
+    ID5_REFRIG_P: 7.8
+  response: 7B00462260527
+- expected_values:
+    ID5_REFRIG_P: 8.2
+  response: 7B00462260529
+- expected_values:
+    ID5_REFRIG_P: 8.4
+  response: 7B0046226052A
+- expected_values:
+    ID5_REFRIG_P: 8.6
+  response: 7B0046226052B
+- expected_values:
+    ID5_REFRIG_P: 8.8
+  response: 7B0046226052C
+- expected_values:
+    ID5_REFRIG_P: 9.6
+  response: 7B00462260530

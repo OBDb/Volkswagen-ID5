@@ -1,0 +1,17 @@
+command_id: 746.7B0.22F449|fc=1
+test_cases:
+- expected_values:
+    ID5_APP_D: 0
+  response: 7B00462F44900
+- expected_values:
+    ID5_APP_D: 0.39216
+  response: 7B00462F44901
+- expected_values:
+    ID5_APP_D: 50.19608
+  response: 7B00462F44980
+- expected_values:
+    ID5_APP_D: 51.76471
+  response: 7B00462F44984
+- expected_values:
+    ID5_APP_D: 53.33333
+  response: 7B00462F44988

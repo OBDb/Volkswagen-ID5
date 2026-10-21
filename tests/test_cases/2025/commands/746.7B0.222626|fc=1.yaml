@@ -1,0 +1,11 @@
+command_id: 746.7B0.222626|fc=1
+test_cases:
+- expected_values:
+    ID5_FRONT_RIGHT_T_FLAP_ACT: 26.5
+  response: 7B006622626016235
+- expected_values:
+    ID5_FRONT_RIGHT_T_FLAP_ACT: 93.5
+  response: 7B0066226260318BB
+- expected_values:
+    ID5_FRONT_RIGHT_T_FLAP_ACT: 100
+  response: 7B006622626FFFFFF
