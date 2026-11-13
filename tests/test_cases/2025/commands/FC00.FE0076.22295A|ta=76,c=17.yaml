@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     ID5_ENG_ODO: 8192
   response: 17FE00760662295A002000
+- expected_values:
+    ID5_ENG_ODO: 74772
+  response: 17FE00760662295A012414

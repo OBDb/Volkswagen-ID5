@@ -10,6 +10,9 @@ test_cases:
     ID5_HVBAT_CAP: 73.75
   response: 77A07622AB205C30400
 - expected_values:
+    ID5_HVBAT_CAP: 73.9
+  response: 77A07622AB205C60400
+- expected_values:
     ID5_HVBAT_CAP: 77.2
   response: 77A07622AB206080400
 - expected_values:
