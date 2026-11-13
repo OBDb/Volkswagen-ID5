@@ -194,7 +194,7 @@
   "signals": [
     {"id": "ID5_HVAC_OUTSIDE_HUM", "path": "Climate", "fmt": {"bix": 56, "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "Outside humidity"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "dbg": true, "cmd": {"22": "27C4"}, "freq": 30,
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "27C4"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "ID5_WNDSHLD_TEMP",    "path": "Climate", "fmt": {           "len": 8, "max": 108.08, "min": -38.8, "mul": 0.576,           "add": -38.8, "unit": "celsius" }, "name": "Windshield, temperature"},
     {"id": "ID5_HVAC_INSIDE_HUM", "path": "Climate", "fmt": {"bix": 32, "len": 8, "max": 100,                                "div": 2,               "unit": "percent" }, "name": "Humidity, inside"}
@@ -304,7 +304,7 @@
   "signals": [
     {"id": "ID5_SOC_DISP", "path": "Battery", "fmt": { "len": 8, "max": 100, "mul": 20.4, "div": 46, "add": -6.4, "unit": "percent" }, "name": "State of charge, display", "suggestedMetric": "stateOfCharge"}
   ]},
-{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "fcm1": true, "dbg": true, "cmd": {"22": "02BD"}, "freq": 1,
+{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "fcm1": true, "cmd": {"22": "02BD"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "ID5_BMS_ODO", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, battery management system"}
   ]},
@@ -955,7 +955,7 @@
   "signals": [
     {"id": "ID5_MAXIMUM_CHARGE_V", "path": "Battery", "fmt": { "len": 16, "max": 65535, "unit": "volts" }, "name": "Charge voltage, max"}
   ]},
-{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "fcm1": true, "dbg": true, "cmd": {"22": "5867"}, "freq": 1,
+{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "fcm1": true, "cmd": {"22": "5867"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "ID5_ODO_BMS2", "path": "Trips", "fmt": {"bix": 16, "len": 16, "max": 655350, "mul": 10, "unit": "kilometers" }, "name": "Odometer, battery management system 2", "suggestedMetric": "odometer"}
   ]},

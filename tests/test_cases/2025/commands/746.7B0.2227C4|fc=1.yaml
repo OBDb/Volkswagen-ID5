@@ -1,0 +1,8 @@
+command_id: 746.7B0.2227C4|fc=1
+test_cases:
+- expected_values:
+    ID5_HVAC_INSIDE_HUM: 57
+    ID5_WNDSHLD_TEMP: 25.136
+  response: |-
+    7B010086227C46FE151
+    7B021AC72AAAAAAAAAA
