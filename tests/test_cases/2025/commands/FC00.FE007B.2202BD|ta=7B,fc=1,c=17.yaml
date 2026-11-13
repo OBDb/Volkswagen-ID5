@@ -1,0 +1,7 @@
+command_id: FC00.FE007B.2202BD|ta=7B,fc=1,c=17
+test_cases:
+- expected_values:
+    ID5_BMS_ODO: 74807
+  response: |-
+    17FE007B100D6202BD620124
+    17FE007B213700006ADB291B
