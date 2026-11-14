@@ -1,13 +1,9 @@
 command_id: FC00.FE007B.221E0F|ta=7B,c=17
 test_cases:
 - expected_values:
-    ID5_HVBAT_T_MIN: 5.75
-    ID5_HVBAT_T_MIN_ID: 5
-  response: 17FE007B07621E0F01700005
-- expected_values:
-    ID5_HVBAT_T_MIN: 7.875
-    ID5_HVBAT_T_MIN_ID: 5
-  response: 17FE007B07621E0F01F80005
+    ID5_HVBAT_T_MIN: 3.875
+    ID5_HVBAT_T_MIN_ID: 17
+  response: 17FE007B07621E0F00F80011
 - expected_values:
     ID5_HVBAT_T_MIN: 8
     ID5_HVBAT_T_MIN_ID: 4

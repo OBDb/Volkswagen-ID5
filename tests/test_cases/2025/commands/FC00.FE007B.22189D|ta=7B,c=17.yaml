@@ -1,9 +1,9 @@
 command_id: FC00.FE007B.22189D|ta=7B,c=17
 test_cases:
 - expected_values:
-    ID5_HVBAT_T_IN: 6.5
-    ID5_HVBAT_T_OUT: 6
-  response: 17FE007B0762189D018001A0
+    ID5_HVBAT_T_IN: 5
+    ID5_HVBAT_T_OUT: 5.5
+  response: 17FE007B0762189D01600140
 - expected_values:
     ID5_HVBAT_T_IN: 10.5
     ID5_HVBAT_T_OUT: 7.5
