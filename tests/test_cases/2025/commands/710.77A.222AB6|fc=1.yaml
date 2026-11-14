@@ -11,15 +11,15 @@ test_cases:
     77A100A622AB6002200
     77A212200000EAAAAAA
 - expected_values:
+    ID5_RANGE: 47
+  response: |-
+    77A100A622AB6002F00
+    77A212F000049AAAAAA
+- expected_values:
     ID5_RANGE: 48
   response: |-
     77A100A622AB6003000
     77A2130000000AAAAAA
-- expected_values:
-    ID5_RANGE: 63
-  response: |-
-    77A100A622AB6003F00
-    77A213F000000AAAAAA
 - expected_values:
     ID5_RANGE: 240
   response: |-
