@@ -1,9 +1,9 @@
 command_id: FC00.FE007B.221E0E|ta=7B,c=17
 test_cases:
 - expected_values:
-    ID5_HVBAT_T_MAX: 7.25
-    ID5_HVBAT_T_MAX_ID: 12
-  response: 17FE007B07621E0E01D0000C
+    ID5_HVBAT_T_MAX: 4.5
+    ID5_HVBAT_T_MAX_ID: 2
+  response: 17FE007B07621E0E01200002
 - expected_values:
     ID5_HVBAT_T_MAX: 7.25
     ID5_HVBAT_T_MAX_ID: 24
