@@ -1,6 +1,11 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    ID5_RANGE: 18
+  response: |-
+    77A100A622AB6001200
+    77A2112000049AAAAAA
+- expected_values:
     ID5_RANGE: 22
   response: |-
     77A100A622AB6001600
