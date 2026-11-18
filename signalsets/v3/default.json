@@ -121,7 +121,7 @@
   "signals": [
     {"id": "ID5_REFRIG_P", "path": "Climate", "fmt": { "len": 8, "max": 51, "div": 5, "unit": "bars" }, "name": "Refrigerant pressure"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2606"}, "freq": 1, "dbgfilter": { "to": 2022, "years": [2024], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2606"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "ID5_RAD_FAN_ACT_DUTY", "path": "Climate", "fmt": { "len": 8, "max": 102, "mul": 2, "div": 5, "nullmax": 102, "unit": "percent" }, "name": "Radiator fan actual duty"}
   ]},
